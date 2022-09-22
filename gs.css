@@ -20,6 +20,15 @@
     font: medium;
 }
 
+.chorus{
+    color: black;
+    font-size: 15px;
+    text-indent: 0;
+    padding-left: 25%;
+    width: 30%;
+    font: italic;
+}
+
 .name{
     color: black;
     font-size: 27px;
@@ -89,3 +98,16 @@ h4:hover{
 .ALL{
     color:blueviolet;
 }
+
+.ROBIN{
+    color: rgb(9, 91, 255);
+}
+
+.ROSE{
+    color: rgb(230, 31, 31);
+}
+
+.BOTH{
+    color:rgb(81, 237, 8);
+}
+
