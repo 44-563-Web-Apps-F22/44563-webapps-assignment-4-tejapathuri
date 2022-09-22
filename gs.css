@@ -32,9 +32,6 @@
 .name{
     color: black;
     font-size: 27px;
-    text-indent: 0;
-    padding-left: 20%;
-    width: 20%;
     font: bold;
 }
 
@@ -68,19 +65,12 @@ tr:nth-child(even) {
 
 
 
- h4.GROSVENOR:hover{
-    color: crimson;
+ h5:hover{
+    color: rgb(18, 223, 250);
     font-size:medium;
-    font:30px;
-    color: coral;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    background-color: gray;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
  }
-
-h4:hover{
-    
-    background-color: cornsilk;
-    font: 30px;
-}
 
 .HAN{
     color: rgb(176, 254, 7);
