@@ -1,0 +1,70 @@
+.speech{
+    color:black;
+    font-size: 10px;
+    font:italic;
+}
+
+.directions{
+    color:black;
+    font:caption;
+    background-color:rgb(176, 219, 139);
+    font-size: 11px;
+}
+
+.song{
+    color: black;
+    font-size: 12px;
+    text-indent: 0;
+    padding-left: 20%;
+    width: 20%;
+    font: medium;
+}
+
+.name{
+    color: black;
+    font-size: 13px;
+    text-indent: 0;
+    padding-left: 20%;
+    width: 20%;
+    font: bold;
+}
+
+p.directions:hover{
+    background-color: rgb(184, 243, 165);
+    color: rgb(100, 10, 225);
+}
+
+
+
+
+
+ h4.GROSVENOR:hover{
+    color: crimson;
+    font-size:medium;
+    font:30px;
+    color: coral;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+ }
+
+h4:hover{
+    
+    background-color: cornsilk;
+    font: 30px;
+}
+
+.HAN{
+    color: rgb(176, 254, 7);
+}
+
+
+.RUTH{
+    color: rgb(9, 91, 255);
+}
+
+.ZOR{
+    color: blue;
+}
+
+.ALL{
+    color:blueviolet;
+}
